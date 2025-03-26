@@ -40,4 +40,4 @@ if edad >= 18:
     else:
         print("No puede votar, no tiene documento")
 else:
-    print("No puede votar")
+    print("No puede votar , perdon")
